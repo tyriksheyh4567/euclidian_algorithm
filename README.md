@@ -1,2 +1,6 @@
-# euclidian_algorithm
-The easiest and the longest way (in running) of Euclidian algorithm (using Python). / Самый простой и самый длинная реализация (по времени исполнения) алгоритма Евклида (на Python).
+# ENG:
+## Euclidian_algorithm
+The easiest and the longest way _(in running)_ of Euclidian algorithm **(using Python)**.
+# ENG:
+## Euclidian_algorithm
+Самый простой и самый длинная реализация _(по времени исполнения)_ алгоритма Евклида **(на Python)**.
